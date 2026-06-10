@@ -1,3 +1,6 @@
+This Project was done as a part of [Robot Framework Automation Certification](https://sema4.ai/docs/automation/courses/build-a-robot-python).\
+Make sure to check it out and complete all three levels of certifications. 😉
+
 # Template: Python - Minimal
 
 This template leverages the new [Python framework](https://github.com/robocorp/robocorp), the [libraries](https://github.com/robocorp/robocorp/blob/master/docs/README.md#python-libraries) from to same project as well.
